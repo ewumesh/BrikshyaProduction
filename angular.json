@@ -24,9 +24,25 @@
                             "src/assets"
                         ],
                         "styles": [
-                            "src/styles.css"
+                            "src/styles.css",
+                            "src/assets/css/bootstrap.min.css",
+                            "src/assets/css/font-awesome.css",
+                            "src/assets/css/fullpage.min.css",
+                            "src/assets/css/owl.carousel.css",
+                            "src/assets/css/animate.css",
+                            "src/assets/css/style.css",
+                            "src/assets/css/responsive.css"
                         ],
-                        "scripts": []
+                        "scripts": [
+                            "src/assets/js/jquery.js",
+                            "src/assets/js/bootstrap.min.js",
+                            "src/assets/js/fullpage.min.js",
+                            "src/assets/js/scrolloverflow.js",
+                            "src/assets/js/owl.carousel.min.js",
+                            "src/assets/js/jquery.inview.min.js",
+                            "src/assets/js/form.js",
+                            "src/assets/js/custom.js"
+                        ]
                     },
                     "configurations": {
                         "production": {
